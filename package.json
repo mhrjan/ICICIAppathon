@@ -1,0 +1,23 @@
+{
+  "name": "moneyplanner",
+  "version": "1.0.0",
+  "description": "This is a ICICI Appathon Application",
+  "main": "server.js",
+  "scripts": {
+    "test": "server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhrjan/ICICIAppathon.git"
+  },
+  "keywords": [
+    "ICICI",
+    "MoneyPlanner"
+  ],
+  "author": "Harinath",
+  "license": "SEE LICENSE IN license",
+  "bugs": {
+    "url": "https://github.com/mhrjan/ICICIAppathon/issues"
+  },
+  "homepage": "https://github.com/mhrjan/ICICIAppathon#readme"
+}
