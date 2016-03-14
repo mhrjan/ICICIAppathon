@@ -19,5 +19,15 @@
   "bugs": {
     "url": "https://github.com/mhrjan/ICICIAppathon/issues"
   },
-  "homepage": "https://github.com/mhrjan/ICICIAppathon#readme"
+  "homepage": "https://github.com/mhrjan/ICICIAppathon#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "cookie-parser": "^1.4.1",
+    "csurf": "^1.8.3",
+    "express": "^4.13.4",
+    "express-stormpath": "^3.0.1",
+    "forms": "^1.1.4",
+    "jade": "^1.11.0",
+    "xtend": "^4.0.1"
+  }
 }
